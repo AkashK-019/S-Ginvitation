@@ -101,7 +101,7 @@
       var calImg = new Image();
       calImg.onload = resolve;
       calImg.onerror = resolve;
-      calImg.src = 'assets/couple-calligraphy.webp?v=10';
+      calImg.src = 'assets/couple-calligraphy.webp?v=11';
       if (calImg.complete) resolve();
     }));
 
